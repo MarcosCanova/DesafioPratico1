@@ -1,0 +1,10 @@
+C:\Users\Marcos\source\repos\DesafioPratico1\DesafioPratico1\bin\Debug\DesafioPratico1.exe.config
+C:\Users\Marcos\source\repos\DesafioPratico1\DesafioPratico1\bin\Debug\DesafioPratico1.exe
+C:\Users\Marcos\source\repos\DesafioPratico1\DesafioPratico1\bin\Debug\DesafioPratico1.pdb
+C:\Users\Marcos\source\repos\DesafioPratico1\DesafioPratico1\obj\Debug\DesafioPratico1.csprojAssemblyReference.cache
+C:\Users\Marcos\source\repos\DesafioPratico1\DesafioPratico1\obj\Debug\DesafioPratico1.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\DesafioPratico1\DesafioPratico1\obj\Debug\DesafioPratico1.exe
+C:\Users\Marcos\source\repos\DesafioPratico1\DesafioPratico1\obj\Debug\DesafioPratico1.pdb
+C:\Users\Marcos\source\repos\DesafioPratico1\DesafioPratico1\bin\Debug\Domain.dll
+C:\Users\Marcos\source\repos\DesafioPratico1\DesafioPratico1\bin\Debug\Domain.pdb
+C:\Users\Marcos\source\repos\DesafioPratico1\DesafioPratico1\obj\Debug\DesafioPratico1.csproj.CopyComplete
